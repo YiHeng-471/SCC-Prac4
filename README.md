@@ -1,2 +1,2 @@
 # SCC-Prac4
-Software Configuration and Construction
+Software Construction and Configuration
